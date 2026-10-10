@@ -4,4 +4,3 @@ const favoriteLanguage ="JavaScript"
 
 console.log("My name is "+ name)
 console.log("I am "+ age + " years old")
-console.log("My favorite language is "+favoriteLanguage)
